@@ -1,6 +1,6 @@
 !["The Wisdom and/or Madness of Crowds"](http://ncase.me/crowds/social/thumb.png)
 
-# 本项目为http://ncase.me/crowds/的非官方简体中文版，地址为http://ncase.me/crowds/zh-CN.html
+# 本项目为http://ncase.me/crowds/ 的非官方简体中文版，地址为 http://ncase.me/crowds/zh-CN.html
 
 本作品*群体的智慧与/或愚蠢*属于公共领域，多亏了现有的知识共享许可和开源的资源，才能顺利地诞生！本项目用到的全部音乐、音效、以及代码列举如下：
  
