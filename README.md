@@ -2,7 +2,7 @@
 
 # 本项目为http://ncase.me/crowds/ 的非官方简体中文版，地址为 http://ncase.me/crowds/zh-CN.html
 
-本作品*群体的智慧与/或愚蠢*属于公共领域，多亏了现有的知识共享许可和开源的资源，才能顺利地诞生！本项目用到的全部音乐、音效、以及代码列举如下：
+本作品*群体的智慧与愚蠢*属于公共领域，多亏了现有的知识共享许可和开源的资源，才能顺利地诞生！本项目用到的全部音乐、音效、以及代码列举如下：
  
 **音乐:** [在 Free Music Archive 上下载他们的整张专辑"Friends 2018" and "Friends 2068"](http://freemusicarchive.org/music/Komiku/Tale_on_the_Late/) by Komiku (CC Zero)
 
