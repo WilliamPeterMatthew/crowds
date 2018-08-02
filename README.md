@@ -1,13 +1,12 @@
 !["The Wisdom and/or Madness of Crowds"](http://ncase.me/crowds/social/thumb.png)
 
-# PLAY IT HERE: [http://ncase.me/crowds/](http://ncase.me/crowds/)
+# 本项目为http://ncase.me/crowds/的非官方简体中文版，地址为http://ncase.me/crowds/zh-CN.html
 
-*The Wisdom and/or Madness of Crowds* is dedicated to the public domain,
-and was possible thanks to these open source/Creative Commons resources:
+本作品*群体的智慧与/或愚蠢*属于公共领域，多亏了现有的知识共享许可和开源的资源，才能顺利地诞生！本项目用到的全部音乐、音效、以及代码列举如下：
+ 
+**音乐:** [在 Free Music Archive 上下载他们的整张专辑"Friends 2018" and "Friends 2068"](http://freemusicarchive.org/music/Komiku/Tale_on_the_Late/) by Komiku (CC Zero)
 
-**Music:** ["Friends 2018" and "Friends 2068"](http://freemusicarchive.org/music/Komiku/Tale_on_the_Late/) by Komiku (CC Zero)
-
-**Free Sound Effects:**
+**音效:**
 
 * [Pencil Scratching](https://freesound.org/people/JasonElrod/sounds/85485/) by JasonElrod (CC BY)
 * [Long Confetti](https://freesound.org/people/dmjames/sounds/140095/) by dmjames (CC Zero)
@@ -22,13 +21,13 @@ and was possible thanks to these open source/Creative Commons resources:
 * [Sandbox: Delete Peep](https://freesound.org/people/Bash360/sounds/214854/) by Bash360 (CC Zero)
 * [Sandbox: Clear All](https://freesound.org/people/dogfishkid/sounds/399303/) by dogfishkid (CC BY)
 
-**Open Source Libraries:**
+**开源代码库:**
 
 * [Howler.js](https://howlerjs.com/) for the audio
 * [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
 * [iNoBounce](https://github.com/lazd/iNoBounce/) for making iOS stop acting like a such a jerk
 
-**Font:** [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) by Patrick Wagesreiter
+**字体:** [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) by Patrick Wagesreiter
 
 # HOW TO TRANSLATE THIS THING
 
@@ -71,6 +70,6 @@ Also, please feel free to credit yourself as a translator :)
 
 **Step 7)** 🎉 fweeeee
 
-# PUBLIC DOMAIN "LICENSE"
+# "许可协议"
 
-[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): it's a public domain dedication, so basically, do whatever you want! Attribution is super appreciated, but I'm not gonna send legal goons after you or anything.
+[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): 本协议适用于对于公共领域的无私奉献，从根本上来说，您可以做任何事！欢迎署名，我不会对您追究任何法律责任。本协议适用于对于公共领域的无私奉献，从根本上来说，您可以做任何事！欢迎署名，我不会对您追究任何法律责任。
